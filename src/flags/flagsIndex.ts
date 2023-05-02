@@ -253,3 +253,4 @@ export const yt = require("./yt.png");
 export const za = require("./za.png");
 export const zm = require("./zm.png");
 export const zw = require("./zw.png");
+export const somaliland = require("./somaliland.png");
