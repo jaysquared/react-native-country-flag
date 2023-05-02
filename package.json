@@ -6,7 +6,7 @@
   "module": "./dist/index.js",
   "scripts": {
     "build": "tsc -p tsconfig.json && tsc -p tsconfig-cjs.json",
-    "prepublish": "npm run build"
+    "postinstall": "npm run build"
   },
   "repository": {
     "type": "git",
